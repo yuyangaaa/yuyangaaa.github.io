@@ -12,14 +12,14 @@ timezone: Asia/Shanghai
 title: Yuyang 的博客
 tagline: 记录算法、c++笔记、Linux与编程学习
 
-url: "https://yuyangaaa.github.io"
+
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://yuyangaaa.github.io"
 
 github:
   username: yuyangaaa
@@ -30,8 +30,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Yuyang
+  email: 
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
